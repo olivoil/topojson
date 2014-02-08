@@ -1,0 +1,19 @@
+{
+  "name": "topojson",
+  "version": "1.4.6",
+  "description": "An extension to GeoJSON that encodes topology.",
+  "keywords": [
+    "geojson",
+    "shapefile"
+  ],
+  "author": {
+    "name": "Mike Bostock",
+    "url": "http://bost.ocks.org/mike"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbostock/topojson.git"
+  },
+  "scripts": ["topojson.js"],
+  "main": "topojson.js"
+}
